@@ -1,0 +1,21 @@
+"","City 1","City 2","Flights 2018","Operators","lon.x","lat.x","lon.y","lat.y"
+"1","Kuala Lumpur","Singapore",30537,"AirAsia, Malaysia Airlines, SilkAir, Jetstar Asia,  Singapore Airlines, Malindo Airways, Scoot",101.68653,3.1412,103.8,1.36667
+"2","Hong Kong","Taipei",28887,"Cathay Pacific, China Airlines, EVA Airlines, Hong Kong Airlines, Cathay Dragon",114.15769,22.28552,121.53185,25.04776
+"3","Jakarta","Singapore",27304,"Singapore Airlines, Garuda, Lion Air, Jetstar Asia, Indonesia AirAsia, Scoot, Batik Air",106.84513,-6.21462,103.8,1.36667
+"4","Hong Kong","Shanghai",21888,"Cathay Dragon, China Eastern Airlines, Hong Kong Airlines, Cathay Pacific",114.15769,22.28552,121.45806,31.22222
+"5","Jakarta","Kuala Lumpur",19849,"Malaysia Airlines, AirAsia, Lion Air, Indonesia AirAsia, Malindo Aiways, Garuda",106.84513,-6.21462,101.68653,3.1412
+"6","Seoul","Osaka",17488,"Asiana Airlines, Korean Air, Jin Air, Jeju Airlines, Peach Aviation, Easter Jet, T'way Air",126.97783,37.56826,135.50218,34.69374
+"7","Hong Kong","Seoul",17075,"Cathay Pacific, Korean Air, HK Express, Asiana Airlines, Jeju Airlines, Thai Airways",114.15769,22.28552,126.97783,37.56826
+"8","New York","Toronto",16956,"Air Canada, Westjet, American Airlines",-74.005973,40.714269,-79.4163,43.70011
+"9","Dubai","Kuwait",15332,"Emirates, Flydubai, Kuwait Airways, Jazeera Airways",55.30472,25.25817,47.75,29.5
+"10","Hong Kong","Singapore",15029,"Cathay Pacific Airways, Singapore Airlines, Scoot, Jetstar Asia",114.15769,22.28552,103.8,1.36667
+"11","Bangkok","Singapore",14859,"Singapore Airlines, Thai Airways, Scoot, Jetstar Asia, Cathay Pacific",100.50144,13.75398,103.8,1.36667
+"12","Bangkok","Hong Kong",14832,"Cathay Pacific, Thai Airways, Hong Kong Airlines, Emirates",100.50144,13.75398,114.15769,22.28552
+"13","Hong Kong","Beijing",14543,"Cathay Dragon, Air China, Hong Kong Airlines, Cathay Pacific, China Southern Airlines",114.15769,22.28552,116.39723,39.9075
+"14","Dublin","London",14390,"Aer Lingus, British Airways",-6.27113,53.38046,-0.1278328,51.5072648
+"15","Osaka","Taipei",14186,"China Airlines, EVA Airways, Peach Aviation, Tigerair Taiwan, Japan Airlines, Cathay Pacific",135.50218,34.69374,121.53185,25.04776
+"16","New York","London",13888,"British Airways, Virgin Atlantic, American Airlines, Delta Air",-74.005973,40.714269,-0.1278328,51.5072648
+"17","Osaka","Shanghai",13576,"China Eastern Airlines, Air China, Juneyao Airlines, All Nippon Airways, Spring Airlines",135.50218,34.69374,121.45806,31.22222
+"18","Seoul","Tokyo",13517,"Asiana Airlines, Korean Air, Jeju Airlines, Eastar Jet, Jin Air, T'way Air, Japan Airlines",126.97783,37.56826,139.69171,35.6895
+"19","Amsterdam","London",13170,"KLM, British Airways",4.88969,52.37403,-0.1278328,51.5072648
+"20","Chicago","Toronto",13100,"Air Canada, United Airlines, American Airlines",-87.65005,41.85003,-79.4163,43.70011

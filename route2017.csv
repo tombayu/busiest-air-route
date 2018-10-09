@@ -1,0 +1,21 @@
+"","City 1","City 2","Flights 2018","Operators","Lon1","Lat1","Lon2","Lat2"
+"1","Kuala Lumpur","Singapore",29383,"AirAsia, Malaysia Airlines, SilkAir, Jetstar Asia,  Singapore Airlines, Malindo Airways, Scoot",101.68653,3.1412,103.8,1.36667
+"2","Hong Kong","Taipei",29494,"Cathay Pacific, China Airlines, EVA Airlines, Hong Kong Airlines, Cathay Dragon",114.15769,22.28552,121.53185,25.04776
+"3","Jakarta","Singapore",26872,"Singapore Airlines, Garuda, Lion Air, Jetstar Asia, Indonesia AirAsia, Scoot, Batik Air",106.84513,-6.21462,103.8,1.36667
+"4","Hong Kong","Shanghai",20818,"Cathay Dragon, China Eastern Airlines, Hong Kong Airlines, Cathay Pacific",114.15769,22.28552,121.45806,31.22222
+"5","Jakarta","Kuala Lumpur",20890,"Malaysia Airlines, AirAsia, Lion Air, Indonesia AirAsia, Malindo Aiways, Garuda",106.84513,-6.21462,101.68653,3.1412
+"6","Hong Kong","Seoul",16366,"Cathay Pacific, Korean Air, HK Express, Asiana Airlines, Jeju Airlines, Thai Airways",114.15769,22.28552,126.97783,37.56826
+"7","New York","Toronto",17116,"Air Canada, Westjet, American Airlines",-74.005973,40.714269,-79.4163,43.70011
+"8","Dubai","Kuwait",13297,"Emirates, Flydubai, Kuwait Airways, Jazeera Airways",55.30472,25.25817,47.75,29.5
+"9","Hong Kong","Singapore",14162,"Cathay Pacific Airways, Singapore Airlines, Scoot, Jetstar Asia",114.15769,22.28552,103.8,1.36667
+"10","Bangkok","Singapore",14455,"Singapore Airlines, Thai Airways, Scoot, Jetstar Asia, Cathay Pacific",100.50144,13.75398,103.8,1.36667
+"11","Bangkok","Hong Kong",14406,"Cathay Pacific, Thai Airways, Hong Kong Airlines, Emirates",100.50144,13.75398,114.15769,22.28552
+"12","Hong Kong","Beijing",14592,"Cathay Dragon, Air China, Hong Kong Airlines, Cathay Pacific, China Southern Airlines",114.15769,22.28552,116.39723,39.9075
+"13","Dublin","London",14556,"Aer Lingus, British Airways",-6.27113,53.38046,-0.1278328,51.5072648
+"14","New York","London",14218,"British Airways, Virgin Atlantic, American Airlines, Delta Air",-74.005973,40.714269,-0.1278328,51.5072648
+"15","Amsterdam","London",13220,"KLM, British Airways",4.88969,52.37403,-0.1278328,51.5072648
+"16","Chicago","Toronto",13595,"Air Canada, United Airlines, American Airlines",-87.65005,41.85003,-79.4163,43.70011
+"17","Hong Kong","Manila",13270,"Cebu Pacific Air, Cathay Pacific, Philippine Airlines, Philippine AirAsia",114.15769,22.28552,120.9822,14.6042
+"18","Frankfurt","London",13208,"British Airways, Lufthansa",8.67185,50.11035,-0.1278328,51.5072648
+"19","Cairo","Jeddah",12896,"Saudi Arabian Airlines, Egyptair, Flynas",31.24967,30.06263,39.21917,21.51694
+"20","Stockholm","Oslo",12804,"Norwegian Air Shuttle, SAS",18.0649,59.33258,10.74609,59.91273
